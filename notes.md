@@ -35,7 +35,7 @@
 - [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)
 - [awesome-programming-books](https://github.com/jobbole/awesome-programming-books)
 - [flask-tutorial](https://github.com/greyli/flask-tutorial)
-- [xunfengPython-100-Days](https://github.com/jackfrued/Python-100-Days)-ohttps://github.com/ysrc/xunfeng)
+- [xunfengPython-100-Days](https://github.com/jackfrued/Python-100-Days)
 - [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)
 - [skill-map](https://github.com/TeamStuQ/skill-map)
 - [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)
