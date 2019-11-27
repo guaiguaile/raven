@@ -14,6 +14,7 @@
 - [nginx-book](https://github.com/taobao/nginx-book)
 - [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
+- [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)
 
 
 **教程/Tutorial**
@@ -56,6 +57,9 @@
 - [software-dockerhome](https://github.com/ibmcuijunluke/software-dockerhome)
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome)
 - [netkiller.github.io](https://github.com/netkiller/netkiller.github.io)
+- [flink-learning](https://github.com/zhisheng17/flink-learning)
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 
 **题解/Answer**
